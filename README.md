@@ -1,8 +1,12 @@
+# Presentación de la práctica
+
+[PS - PRÁCTICA DEVOPS.pdf](https://github.com/user-attachments/files/25687777/PS.-.PRACTICA.DEVOPS.pdf)
+
 # Instrucciones para ejecutar el repositorio
 
 Este repositorio contiene una pequeña aplicación de gestión de gastos desarrollada en Python, y debe ser utilizada como base para varias prácticas en la asignatura. A continuación se detalla toda la información necesaria para instalar, ejecutar, probar y validar el código, así como los requisitos para la primera y segunda parte de la práctica.
 
-[PS - PRÁCTICA DEVOPS.pdf](https://github.com/user-attachments/files/25687777/PS.-.PRACTICA.DEVOPS.pdf)
+
 
 ---
 
